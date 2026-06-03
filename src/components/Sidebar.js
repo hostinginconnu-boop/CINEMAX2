@@ -88,8 +88,8 @@ export default function Sidebar() {
         </nav>
 
         <div className="sidebar__footer">
-          <p>© 2024 CINEMAX</p>
-          <p>Powered by TMDb</p>
+          <p>© 2026 CINEMA X</p>
+          <p>MADE IN BY INCONNU BOY</p>
         </div>
       </aside>
 
